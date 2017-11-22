@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SerializableParcelable</string>
+    <string name="parcel">parcel传输</string>
+    <string name="serialize">serialize传输</string>
+</resources>
